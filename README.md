@@ -2,7 +2,7 @@
 
 ## Description
 
-A README quickly processed 
+A quicky generated professional README
 
 ## Table of Contents
 
